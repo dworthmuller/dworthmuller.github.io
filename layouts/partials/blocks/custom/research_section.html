@@ -1,0 +1,48 @@
+{{/* Wowchemy Blocks: Collection */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<!-- {{/* Set Title and Subtitle */}}
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $subtitle := $block.content.subtitle | emojify | $page.RenderString }} -->
+{{ $columns := $block.design.columns | default "2" }}
+
+<!-- code added manually start ... 
+  NB: for some reason, a custom block as exact duplicate of collection.html 
+  does NOT create the <div class="row">, nor the <div> for the first column to contain block title
+  => had to add these manually, copy/pasting the html code for the working "collection" blocks 
+-->
+<div class="row">
+  <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+    {{ with $block.content.title }}
+    <h1 class="mb-0">{{ . | markdownify }}</h1>
+    {{ end }}
+  </div>
+<!-- code added manually end ... -->
+  <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+    {{/* Query Markdown files in the 'content/research/' directory */}}
+      {{ $query := where site.RegularPages "Section" "research" }} <!-- Fetch files from 'research' section -->
+
+      {{ range $query }}
+        <div class="mb-6"> <!-- Each research item -->
+          <h4 class="text-lg font-semibold text-gray-900 dark:text-white">{{ .Title }}</h4> <!-- Project title -->
+
+          <!-- Render the full content of the Markdown file -->
+          <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+            {{ .Content | safeHTML }} <!-- Render the full content -->
+          </div>
+        </div>
+      {{ end }}
+
+      {{ if eq (len $query) 0 }} <!-- Display message if no research items found -->
+        <p class="text-gray-500 dark:text-gray-400">No research projects found.</p>
+      {{ end }}
+  </div>
+</div>
+  
+
+
