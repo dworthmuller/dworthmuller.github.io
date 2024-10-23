@@ -103,6 +103,7 @@ email: ''
 highlight_name: true
 ---
 I am a theoretical biophysicist at Institute Curie, working with Pierre Sens to understand the mechanisms controlling cell shape and interactions with the extracellular matrix (ECM) through pushing forces. My current research lies at the intersection of analytical and computational modeling applied to the mechanical interaction between the plasma membrane, the actin cortex, and the ECM.
+With my work, I'm aiming to deepen the understanding of how cells probe their environment through pushing forces and how this mechanism enables efficient migration in low-adhesion environments.
 
 I completed my PhD at Heidelberg University under the supervision of Ulrich Schwarz and Falko Ziebert, focusing on finite element modeling of optogenetic control of cell contractility.
 I have also worked on stochastic simulations describing the self-assembly of scaffold proteins. 

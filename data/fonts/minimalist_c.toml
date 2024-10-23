@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimalist_c"
+
+# Optional Google font URL
+google_fonts = "family=Roboto+Mono&family=Source+Sans+Pro:wght@200;300;400;700"
+
+# Font families
+heading_font = "Playfair Display"
+body_font = "Lora"
+nav_font = "Source Sans Pro"
+mono_font = "Inconsolata"
