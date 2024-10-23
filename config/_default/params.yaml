@@ -7,7 +7,7 @@
 appearance:
   theme_day: custom_theme
   # theme_night: custom_theme
-  font: custom_font
+  font: timeless
   font_size: S
 
 # SEO

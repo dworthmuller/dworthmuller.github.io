@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Dennis Wörthmüller</title>
+    <link>http://localhost:1313/research/</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1083123889185474387.png</url>
+      <title>Researches</title>
+      <link>http://localhost:1313/research/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/project-1/</guid>
+      <description>&lt;h2 style=&#34;font-weight: normal&#34;&gt;Background&lt;/h2&gt;
+Over the course of the last two decades, it became progressively clear that physical, i.e.
+mechanical forces play a major role in cellular decision making and aid in regulating important
+physiological processes like tissue growth and morphogenesis. To actively generate forces, cells
+use a highly complex and self-organized contractile structure called the actin cytoskeleton which
+allows them to explore the mechanical and geometric properties of their environment through cell-
+matrix and cell-cell adhesions. These informations are then fed back to the cell, and evaluated by
+means of chemical signals a process which is known as mechanotransduction. Although research
+has yielded many new insights in recent years it is still puzzling how cells integrate information
+from their environment into their decision-making process. Therefore, it is important to study how
+cells generate forces, how the internal molecular machinery regulates them, and how these forces
+transmit information in multicellular systems to understand processes such as development,
+organogenesis, homeostasis or diseases like cancer.
+&lt;h3 id=&#34;h2-stylefont-weight-normalpushing-from-within-control-of-cell-shape-integrity-and--motility-by-cytoskeletal-pushing-forcesh2&#34;&gt;&lt;h2 style=&#34;font-weight: normal&#34;&gt;Pushing from within: Control of cell shape, integrity and  motility by cytoskeletal pushing forces&lt;/h2&gt;&lt;/h3&gt;
+&lt;!-- - Lists
+- **Bold text**
+- *Italic text*
+- Images
+- 
+
+
+
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+ --&gt;
+&lt;!-- $$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
