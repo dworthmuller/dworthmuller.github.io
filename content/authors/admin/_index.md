@@ -67,7 +67,7 @@ social:
   #   link: '/#contact'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations
+    link: https://scholar.google.com/citations?user=DI2B0P0AAAAJ&hl=de&oi=ao
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6443-0112
