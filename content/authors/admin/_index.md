@@ -102,14 +102,14 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<strong>
+<h3 style="font-weight: normal">
 I am a theoretical biophysicist at Institute Curie, working with Pierre Sens to understand the mechanisms controlling cell shape and interactions with the extracellular matrix (ECM) through pushing forces. My current research lies at the intersection of analytical and computational modeling applied to the mechanical interaction between the plasma membrane, the actin cortex, and the ECM.
 
 I completed my PhD at Heidelberg University under the supervision of Ulrich Schwarz and Falko Ziebert, focusing on finite element modeling of optogenetic control of cell contractility.
 I have also worked on stochastic simulations describing the self-assembly of scaffold proteins. 
 
 With a wide range of research interests, I’m always seeking engaging collaborations with experimentalists. Don’t hesitate to [get in touch](mailto:dennis.worthmuller@curie.fr) if you’d like to connect or discuss potential collaborations.
-</strong>
+</h3>
 <!-- I have a wide range of research interests and am eager to collaborate with experimentalists on innovative projects. Don’t hesitate to get in touch if you’d like to connect or discuss potential collaborations. -->
 <!-- I have a wide range of research interests and I’m always seeking engaging collaborations with experimentalists. Don’t hesitate to get in touch if you’d like to connect or discuss potential collaborations. -->
 (Background image credit: [David Goodsell](https://ccsb.scripps.edu/goodsell/))
