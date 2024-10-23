@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Dennis Wörthmüller</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/talk/</link>
+      <atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <url>https://example.com/media/icon_hu11734318148517933569.png</url>
       <title>Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://example.com/talk/</link>
     </image>
     
     <item>
       <title>Optogenetic control of cell contractility and force propagation in epithelial tissue</title>
-      <link>http://localhost:1313/talk/2024-10_paris/</link>
+      <link>https://example.com/talk/2024-10_paris/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2024-10_paris/</guid>
+      <guid>https://example.com/talk/2024-10_paris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling optogenetic control of cell contractility and force propagation in epithelial tissue</title>
-      <link>http://localhost:1313/talk/2022-09_heidelberg/</link>
+      <link>https://example.com/talk/2022-09_heidelberg/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2022-09_heidelberg/</guid>
+      <guid>https://example.com/talk/2022-09_heidelberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Simulations of SAS-6 Assembly on Surfaces</title>
-      <link>http://localhost:1313/talk/2019-03_regensburg/</link>
+      <link>https://example.com/talk/2019-03_regensburg/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2019-03_regensburg/</guid>
+      <guid>https://example.com/talk/2019-03_regensburg/</guid>
       <description></description>
     </item>
     

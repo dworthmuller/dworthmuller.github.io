@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches | Dennis Wörthmüller</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/research/</link>
+      <atom:link href="https://example.com/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <url>https://example.com/media/icon_hu11734318148517933569.png</url>
       <title>Researches</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://example.com/research/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/research/project-1/</link>
+      <link>https://example.com/research/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/project-1/</guid>
+      <guid>https://example.com/research/project-1/</guid>
       <description>&lt;h2 style=&#34;font-weight: normal&#34;&gt;Background&lt;/h2&gt;
 Over the course of the last two decades, it became progressively clear that physical, i.e.
 mechanical forces play a major role in cellular decision making and aid in regulating important
