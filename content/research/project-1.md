@@ -17,7 +17,8 @@ cells generate forces, how the internal molecular machinery regulates them, and 
 transmit information in multicellular systems to understand processes such as development,
 organogenesis, homeostasis or diseases like cancer.
 
-### <h2 style="font-weight: normal">Pushing from within: Control of cell shape, integrity and  motility by cytoskeletal pushing forces</h2>
+### <h2 style="font-weight: normal">Pushing from within</h2>
+Recent research has demonstrated that cells are able to migrate efficiently through low-adhesion environments.
 
 
 
