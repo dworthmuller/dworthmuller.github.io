@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences I attended | Dennis Wörthmüller</title>
-    <link>https://example.com/conferences/</link>
-      <atom:link href="https://example.com/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/conferences/</link>
+      <atom:link href="http://localhost:1313/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences I attended</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu2635411028209611672.png</url>
+      <url>http://localhost:1313/media/icon_hu2635411028209611672.png</url>
       <title>Conferences I attended</title>
-      <link>https://example.com/conferences/</link>
+      <link>http://localhost:1313/conferences/</link>
     </image>
     
     <item>
       <title>Morphodynamics of Living Systems</title>
-      <link>https://example.com/conferences/2024-04_paris/</link>
+      <link>http://localhost:1313/conferences/2024-04_paris/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2024-04_paris/</guid>
+      <guid>http://localhost:1313/conferences/2024-04_paris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unraveling the Complexity: Decoding Cellular and Molecular Organization on Engineered Micropatterns and 3D Structures</title>
-      <link>https://example.com/conferences/2023-11_paris/</link>
+      <link>http://localhost:1313/conferences/2023-11_paris/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2023-11_paris/</guid>
+      <guid>http://localhost:1313/conferences/2023-11_paris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>European Conference on Mathematical and Theoretical Biology, Heidelberg, Germany</title>
-      <link>https://example.com/conferences/2022-09_heidelberg/</link>
+      <link>http://localhost:1313/conferences/2022-09_heidelberg/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2022-09_heidelberg/</guid>
+      <guid>http://localhost:1313/conferences/2022-09_heidelberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DPG Spring Meeting of the Condensed Matter Section (SKM)</title>
-      <link>https://example.com/conferences/2022-09_regensburg/</link>
+      <link>http://localhost:1313/conferences/2022-09_regensburg/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2022-09_regensburg/</guid>
+      <guid>http://localhost:1313/conferences/2022-09_regensburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IWR School 2019, A Crash Course in Machine Learning with Applications in Natural- and Life Sciences</title>
-      <link>https://example.com/conferences/2019-09_heidelberg/</link>
+      <link>http://localhost:1313/conferences/2019-09_heidelberg/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2019-09_heidelberg/</guid>
+      <guid>http://localhost:1313/conferences/2019-09_heidelberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DPG Spring Meeting of the Condensed Matter Section (SKM)</title>
-      <link>https://example.com/conferences/2019-03_regensburg/</link>
+      <link>http://localhost:1313/conferences/2019-03_regensburg/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2019-03_regensburg/</guid>
+      <guid>http://localhost:1313/conferences/2019-03_regensburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DPG Spring Meeting of the Condensed Matter Section (SKM)</title>
-      <link>https://example.com/conferences/2018-03_berlin/</link>
+      <link>http://localhost:1313/conferences/2018-03_berlin/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2018-03_berlin/</guid>
+      <guid>http://localhost:1313/conferences/2018-03_berlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFF Spring School: ”Physics of Life</title>
-      <link>https://example.com/conferences/2018-02_julich/</link>
+      <link>http://localhost:1313/conferences/2018-02_julich/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/conferences/2018-02_julich/</guid>
+      <guid>http://localhost:1313/conferences/2018-02_julich/</guid>
       <description></description>
     </item>
     

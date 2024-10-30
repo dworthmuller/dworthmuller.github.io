@@ -19,6 +19,8 @@ organogenesis, homeostasis or diseases like cancer.
 
 ### <h2 style="font-weight: normal">Pushing from within</h2>
 Recent research has demonstrated that cells are able to migrate efficiently through low-adhesion environments.
+![screen reader text](research/cell_pushing_matrix.svg "caption")
+<!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
 
 
