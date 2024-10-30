@@ -107,7 +107,7 @@
       
 
       {{ with $person.interests }}
-      <div class="col-md-6"> <!-- Interests Column -->
+      <div class="col-md-4"> <!-- Interests Column -->
         <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
         <ul class="ul-interests mb-0">
           {{ range . }}
@@ -118,7 +118,7 @@
       {{ end }}
     
       {{ with $person.education }}
-      <div class="col-md-6"> <!-- Combined Education and Work Column -->
+      <div class="col-md-8"> <!-- Combined Education and Work Column -->
         <div class="section-subheading">Education and Positions</div>
         <ul class="ul-edu fa-ul mb-0">
           
