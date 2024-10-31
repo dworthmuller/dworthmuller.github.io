@@ -1137,7 +1137,7 @@
                             </g>
                         </g>
                     </g>
-                    <g transform="matrix(2.83849,0,0,2.83849,-3276.16,-1979.39)">
+                    <g transform="matrix(2.83849,0,0,2.83849,-3273.16,-1980.39)">
                         <circle cx="1791.3" cy="1020.17" r="34.007" style="stroke:black;stroke-width:1.25px;"/>
                     </g>
                     <g>
@@ -1255,13 +1255,13 @@
                             <path d="M1521.06,818.512L1531.01,824.889L1529.74,828.966L1540.48,831.438L1530.29,843.555L1522.23,841.248L1516.32,839.786L1516.4,833.614L1520.78,830.535L1516.08,824.552L1521.06,818.512Z" style="fill:rgb(243,242,0);stroke:black;stroke-width:0.83px;"/>
                         </g>
                     </g>
-                    <g transform="matrix(0.926146,-0.477835,0.280013,0.542725,179.919,851.656)">
+                    <g transform="matrix(0.926146,-0.477835,0.280013,0.542725,129.919,851.656)">
                         <rect x="1430.62" y="279.619" width="37.566" height="526.621" style="fill:url(#_Linear3);stroke:black;stroke-width:0.83px;"/>
                     </g>
-                    <g transform="matrix(0.926071,0.477981,-0.280099,0.542681,780.508,-530.938)">
+                    <g transform="matrix(0.926071,0.477981,-0.280099,0.542681,798.508,-530.938)">
                         <rect x="1430.62" y="279.619" width="37.566" height="526.621" style="fill:url(#_Linear4);stroke:black;stroke-width:0.83px;"/>
                     </g>
-                    <g transform="matrix(1.04215,5.20417e-17,-6.41848e-17,0.610703,316.527,98.0399)">
+                    <g transform="matrix(1.04215,5.20417e-17,-6.41848e-17,0.610703,302.527,98.0399)">
                         <rect x="1430.62" y="279.619" width="37.566" height="526.621" style="fill:url(#_Linear5);stroke:black;stroke-width:0.83px;"/>
                     </g>
                 </g>
@@ -1302,7 +1302,7 @@
             </g>
             <text x="2037.44px" y="702.731px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Cell membrane</text>
         </g>
-        <g transform="matrix(1,0,0,1,-293.666,169.915)">
+        <g transform="matrix(1,0,0,1,-289.666,169.915)">
             <g transform="matrix(33.3333,0,0,33.3333,2241.26,702.731)">
             </g>
             <text x="2037.44px" y="702.731px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Pushing force</text>
@@ -1401,7 +1401,7 @@
         <g transform="matrix(1,0,0,1,77.8147,-66.591)">
             <path d="M640.542,608.303C816.047,659.979 991.553,711.655 1167.06,763.331" style="fill:none;stroke:black;stroke-width:2.71px;stroke-dasharray:2.71,8.12,0,0,0,0;"/>
         </g>
-        <g transform="matrix(1.54313e-17,-0.252012,0.457459,2.80113e-17,1235.38,1129.99)">
+        <g transform="matrix(1.54313e-17,-0.252012,0.457459,2.80113e-17,1240.38,1129.99)">
             <path d="M1102.2,1060.16L1102.2,1104.18L974.433,1033.8L1102.2,963.408L1102.2,1007.43L1527.42,1007.43L1527.42,1060.16L1102.2,1060.16Z" style="fill:url(#_Linear9);stroke:black;stroke-width:2.71px;"/>
         </g>
     </g>
