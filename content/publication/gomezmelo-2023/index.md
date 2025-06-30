@@ -97,4 +97,4 @@ links:
     https://pubs.aip.org/jcp/article/158/8/085102/2869008/Grand-canonical-Brownian-dynamics-simulations-of
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+<!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. -->
