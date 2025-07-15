@@ -19,26 +19,21 @@ organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
-
-  <!-- Image on the left -->
-  <div style="flex: 1;">
-    <img src="/uploads/coupling_mechanism.svg" alt="Coupling mechanism" style="max-width: 100%; height: auto;">
+  <!-- Markdown image rendered inside a div -->
+  <div style="flex: 1; min-width: 200px;">
+  
+  ![Coupling mechanism](research/coupling_mechanism.svg)
+  
   </div>
 
-  <!-- Right side: Heading + 2 videos side by side -->
-  <div style="flex: 2;">
-    <h3>Supplementary Movies</h3>
+  <!-- Right side: 2 videos side by side -->
+  <div style="flex: 2; min-width: 300px;">
     <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-      <div style="flex: 1;">
-        <video controls style="max-width: 100%;">
-          <source src="/uploads/MovieS1_doublet_weak_coupling.mp4" type="video/mp4">
-        </video>
+      <div style="flex: 1; min-width: 200px;">
+        {{< video src="MovieS1_doublet_weak_couplingMovieS1.mp4" controls="yes" >}}
       </div>
-      <div style="flex: 1;">
-        <video controls style="max-width: 100%;">
-          <source src="/uploads/MovieS2_doublet_strong_coupling.mp4" type="video/mp4">
-        </video>
+      <div style="flex: 1; min-width: 200px;">
+        {{< video src="MovieS2_doublet_strong_coupling.mp4" controls="yes" >}}
       </div>
     </div>
   </div>
