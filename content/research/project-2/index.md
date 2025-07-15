@@ -18,7 +18,12 @@ transmit information in multicellular systems to understand processes such as de
 organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
-{{< video src="MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
+Plain image:
+![Test](cell_pushing_matrix.svg)
+
+
+{{< video src="media/MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
+<!-- {{< video src="MovieS1_doublet_weak_coupling.mp4" controls="yes" >}} -->
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
 
