@@ -18,7 +18,27 @@ transmit information in multicellular systems to understand processes such as de
 organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
-<img src="/uploads/coupling_mechanism.svg" alt="Test image" style="max-width: 300px;">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
+
+  <!-- Image block -->
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/uploads/coupling_mechanism.svg" alt="Cell pushing schematic"
+         style="max-width: 100%; height: auto;">
+  </div>
+
+  <!-- Movie 1 block with heading -->
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Weak Coupling</h4>
+    {{< video src="media/MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
+  </div>
+
+  <!-- Movie 2 block with heading -->
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Strong Coupling</h4>
+    {{< video src="media/MovieS2_doublet_strong_coupling.mp4" controls="yes" >}}
+  </div>
+
+</div>
 
 
 
