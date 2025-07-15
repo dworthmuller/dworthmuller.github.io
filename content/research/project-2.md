@@ -18,36 +18,14 @@ transmit information in multicellular systems to understand processes such as de
 organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
-
-  <!-- Markdown image rendered inside a div -->
-  <div style="flex: 1; min-width: 200px;">
-  
-  ![Coupling mechanism](/uploads/coupling_mechanism.svg)
-  
-  </div>
-
-  <!-- Right side: 2 videos side by side -->
-  <div style="flex: 2; min-width: 300px;">
-    <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-      <div style="flex: 1; min-width: 200px;">
-        {{< video src="media/MovieS1.mp4" controls="yes" >}}
-      </div>
-      <div style="flex: 1; min-width: 200px;">
-        {{< video src="media/MovieS2.mp4" controls="yes" >}}
-      </div>
-    </div>
-  </div>
-
-</div>
-<!-- <div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 1rem;">
   <div style="flex: 1;">
     {{< video src="MovieS2_doublet_strong_coupling.mp4" controls="yes" >}}
   </div>
   <div style="flex: 1;">
     {{< video src="MovieS4_tissue_nonlinear_reaction_diffusion.mp4" controls="yes" >}}
   </div>
-</div> -->
+</div>
 <!-- {{< video src="MovieS4_tissue_nonlinear_reaction_diffusion.mp4" controls="yes" >}} -->
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
