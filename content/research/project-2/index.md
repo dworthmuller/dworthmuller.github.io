@@ -19,7 +19,7 @@ organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
 Plain image:
-![Test](/research/project-2/cell_pushing_matrix.svg)
+![Test](coupling_mechanism.svg)
 
 
 {{< video src="MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
