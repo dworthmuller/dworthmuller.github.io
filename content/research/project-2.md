@@ -33,19 +33,18 @@ organogenesis, homeostasis or diseases like cancer. -->
       <div style="flex: 1;">
         <video controls style="max-width: 100%;">
           <source src="/uploads/MovieS1_doublet_weak_coupling.mp4" type="video/mp4">
-          Your browser does not support the video tag.
         </video>
       </div>
       <div style="flex: 1;">
         <video controls style="max-width: 100%;">
           <source src="/uploads/MovieS2_doublet_strong_coupling.mp4" type="video/mp4">
-          Your browser does not support the video tag.
         </video>
       </div>
     </div>
   </div>
 
 </div>
+
 
 <!-- <div style="display: flex; gap: 1rem;">
   <div style="flex: 1;">
