@@ -1,5 +1,5 @@
 ---
-title: IRENE: A fluId layeR finitE-elemeNt softwarE
+title: IRENE A fluId layeR finitE-elemeNt softwarE
 
 # Authors
 # A YAML list of author names
@@ -18,7 +18,7 @@ author_notes: []
 date: '2025-07-03'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-# publishDate: '2024-10-22T14:23:54.333698Z'
+publishDate: '2024-10-22T14:23:54.333698Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
