@@ -22,7 +22,7 @@ organogenesis, homeostasis or diseases like cancer. -->
 
   <!-- Image block -->
   <div style="flex: 1; min-width: 200px;">
-    ![Cell pushing schematic](coupling_mechanism.svg)
+    <img src="coupling_mechanism.svg" alt="Cell pushing schematic" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- Movies block -->
@@ -43,6 +43,9 @@ organogenesis, homeostasis or diseases like cancer. -->
 
     </div>
   </div>
+
+</div>
+
 
 <!-- ![Test](coupling_mechanism.svg)
 {{< video src="MovieS1_doublet_weak_coupling.mp4" controls="yes" >}} -->
