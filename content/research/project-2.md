@@ -23,7 +23,7 @@ organogenesis, homeostasis or diseases like cancer. -->
 
   <!-- Image on the left -->
   <div style="flex: 1;">
-    <img src="coupling_mechanism.svg" alt="Description" style="max-width: 100%; height: auto;">
+    <img src="content/research/coupling_mechanism.svg" alt="Description" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- Right side: Heading + 2 videos side by side -->
