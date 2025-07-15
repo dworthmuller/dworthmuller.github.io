@@ -414,7 +414,7 @@ organogenesis, homeostasis or diseases like cancer. --&gt;
   &#34;&gt;
     &lt;!-- Top: Overview Movie spanning full width --&gt;
     &lt;div&gt;
-      &lt;h4&gt;Overview Movie&lt;/h4&gt;
+      &lt;h4&gt;Optogenetic activation of a cell pair&lt;/h4&gt;
       &lt;video controls style=&#34;width: 100%; height: auto; display: block;&#34;&gt;
         &lt;source src=&#34;http://localhost:1313/uploads/MovieOptoArrow.mp4&#34; type=&#34;video/mp4&#34;&gt;
       &lt;/video&gt;
