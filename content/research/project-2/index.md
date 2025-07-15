@@ -20,30 +20,21 @@ organogenesis, homeostasis or diseases like cancer. -->
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
 
-  <!-- Image block -->
   <div style="flex: 1; min-width: 200px;">
     {{ with .Resources.GetMatch "coupling_mechanism.svg" }}
-      <img src="{{ .RelPermalink }}" alt="Cell pushing schematic" style="max-width: 100%; height: auto;">
+      <img src="{{ .RelPermalink }}" alt="Cell pushing schematic"
+           style="max-width: 100%; height: auto;">
     {{ end }}
   </div>
 
-  <!-- Movies block -->
-  <div style="flex: 2; min-width: 300px;">
-    <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Weak Coupling</h4>
+    {{< video src="media/MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
+  </div>
 
-      <!-- Movie 1 block with heading -->
-      <div style="flex: 1; min-width: 200px;">
-        <h4>Weak Coupling</h4>
-        {{< video src="media/MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
-      </div>
-
-      <!-- Movie 2 block with heading -->
-      <div style="flex: 1; min-width: 200px;">
-        <h4>Strong Coupling</h4>
-        {{< video src="media/MovieS2_doublet_strong_coupling.mp4" controls="yes" >}}
-      </div>
-
-    </div>
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Strong Coupling</h4>
+    {{< video src="media/MovieS2_doublet_strong_coupling.mp4" controls="yes" >}}
   </div>
 
 </div>
