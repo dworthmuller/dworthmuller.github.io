@@ -18,14 +18,11 @@ transmit information in multicellular systems to understand processes such as de
 organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
-{{< rawhtml >}}
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
 
   <div style="flex: 1; min-width: 200px;">
-    {{ with .Resources.GetMatch "coupling_mechanism.svg" }}
-      <img src="{{ .RelPermalink }}" alt="Cell pushing schematic"
-           style="max-width: 100%; height: auto;">
-    {{ end }}
+    <img src="/uploads/coupling_mechanism.svg" alt="Cell pushing schematic"
+         style="max-width: 100%; height: auto;">
   </div>
 
   <div style="flex: 1; min-width: 200px;">
@@ -39,7 +36,7 @@ organogenesis, homeostasis or diseases like cancer. -->
   </div>
 
 </div>
-{{< /rawhtml >}}
+
 
 
 
