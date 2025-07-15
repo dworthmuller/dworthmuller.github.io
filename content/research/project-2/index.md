@@ -30,7 +30,7 @@ organogenesis, homeostasis or diseases like cancer. -->
   <div style="flex: 1; min-width: 200px;">
     <h4>Weak Coupling</h4>
     <video controls style="width: 100%; height: auto;">
-      <source src="MovieS1_doublet_weak_coupling.mp4" type="video/mp4">
+      <source src="/uploads/MovieS1_doublet_weak_coupling.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -39,7 +39,7 @@ organogenesis, homeostasis or diseases like cancer. -->
   <div style="flex: 1; min-width: 200px;">
     <h4>Strong Coupling</h4>
     <video controls style="width: 100%; height: auto;">
-      <source src="MovieS2_doublet_strong_coupling.mp4" type="video/mp4">
+      <source src="/uploads/MovieS2_doublet_strong_coupling.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
