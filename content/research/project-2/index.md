@@ -22,7 +22,9 @@ organogenesis, homeostasis or diseases like cancer. -->
 
   <!-- Image block -->
   <div style="flex: 1; min-width: 200px;">
-    <img src="coupling_mechanism.svg" alt="Cell pushing schematic" style="max-width: 100%; height: auto;">
+    {{ with .Resources.GetMatch "coupling_mechanism.svg" }}
+      <img src="{{ .RelPermalink }}" alt="Cell pushing schematic" style="max-width: 100%; height: auto;">
+    {{ end }}
   </div>
 
   <!-- Movies block -->
@@ -45,6 +47,7 @@ organogenesis, homeostasis or diseases like cancer. -->
   </div>
 
 </div>
+
 
 
 <!-- ![Test](coupling_mechanism.svg)
