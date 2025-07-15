@@ -22,7 +22,7 @@ organogenesis, homeostasis or diseases like cancer. -->
 
   <!-- Image block -->
   <div style="flex: 1; min-width: 200px;">
-    <img src="/uploads/coupling_mechanism.svg" alt="Cell pushing schematic"
+    <img src="coupling_mechanism.svg" alt="Cell pushing schematic"
          style="max-width: 100%; height: auto;">
   </div>
 
