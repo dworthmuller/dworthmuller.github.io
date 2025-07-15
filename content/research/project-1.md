@@ -3,7 +3,7 @@ title: ""
 summary: "A brief summary of the project."
 type: research
 ---
-<h2 style="font-weight: normal">Background</h2>
+<!-- <h2 style="font-weight: normal">Background</h2>
 Over the course of the last two decades, it became progressively clear that physical, i.e.
 mechanical forces play a major role in cellular decision making and aid in regulating important
 physiological processes like tissue growth and morphogenesis. To actively generate forces, cells
@@ -15,10 +15,10 @@ has yielded many new insights in recent years it is still puzzling how cells int
 from their environment into their decision-making process. Therefore, it is important to study how
 cells generate forces, how the internal molecular machinery regulates them, and how these forces
 transmit information in multicellular systems to understand processes such as development,
-organogenesis, homeostasis or diseases like cancer.
+organogenesis, homeostasis or diseases like cancer. -->
 
-### <h2 style="font-weight: normal">Pushing from within</h2>
-Recent research has demonstrated that cells are able to migrate efficiently through low-adhesion environments.
+### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
+Cells interact mechanically with their environment not only by pulling but also by pushing from within, a fundamental aspect of cell mechanics that remains largely unexplored. While the role of pulling forces in sensing and migration is well established, how pushing forces allow cells to deform soft, three-dimensional environments and move without strong adhesion is still poorly understood. Understanding this pushing mechanism could reshape our view of cell migration in development, immunity, and cancer invasion. In my current research, I combine theoretical physics and quantitative modeling to understand how the cytoskeleton — especially actin and microtubules — and the plasma membrane generate, balance, and coordinate pushing forces. I develop multi-scale models that link local cytoskeletal dynamics and membrane mechanics to the global force balance needed for cells to migrate through complex environments without relying on strong adhesion.
 ![screen reader text](research/cell_pushing_matrix.svg)
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
