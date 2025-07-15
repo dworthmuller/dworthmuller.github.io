@@ -15,7 +15,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
       button:
-        url: uploads/resume_dw.pdf  
+        url: uploads/cvpostdoc.pdf  
     design:
       background:
         image:
