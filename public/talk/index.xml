@@ -5,12 +5,20 @@
     <link>http://localhost:1313/talk/</link>
       <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2635411028209611672.png</url>
       <title>Talks</title>
       <link>http://localhost:1313/talk/</link>
     </image>
+    
+    <item>
+      <title>Active Gel on a Wavy Surface -- Stresses and Instabilities</title>
+      <link>http://localhost:1313/talk/2025-05_paris/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2025-05_paris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optogenetic control of cell contractility and force propagation in epithelial tissue</title>

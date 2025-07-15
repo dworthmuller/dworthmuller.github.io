@@ -5,12 +5,20 @@
     <link>http://localhost:1313/conferences/</link>
       <atom:link href="http://localhost:1313/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences I attended</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2635411028209611672.png</url>
       <title>Conferences I attended</title>
       <link>http://localhost:1313/conferences/</link>
     </image>
+    
+    <item>
+      <title>Active Matter: the synergy between Maths and Physics</title>
+      <link>http://localhost:1313/conferences/2025-05_paris/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conferences/2025-05_paris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Morphodynamics of Living Systems</title>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 5, 2024 --><html lang="en-us" >
+<!-- Last Published: July 16, 2025 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -989,7 +989,7 @@ I have also worked on stochastic simulations describing the self-assembly of sca
 <p>(Background image credit: <a href="https://ccsb.scripps.edu/goodsell/" target="_blank" rel="noopener">David Goodsell</a>)</p>
 
       
-      <a class="btn btn-outline-primary" href="uploads/resume_dw.pdf" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; padding: 8px 16px; font-size: 14px; font-weight: 500; text-decoration: none; border: 1px solid #007bff; border-radius: 4px; color: #007bff;">
+      <a class="btn btn-outline-primary" href="uploads/cvpostdoc.pdf" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; padding: 8px 16px; font-size: 14px; font-weight: 500; text-decoration: none; border: 1px solid #007bff; border-radius: 4px; color: #007bff;">
         <i class="fas fa-download" style="margin-right: 8px;"></i> Download CV
       </a>
       
@@ -1190,7 +1190,7 @@ I have also worked on stochastic simulations describing the self-assembly of sca
 
           
           <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-            <h2 style="font-weight: normal">Background</h2>
+            <!-- <h2 style="font-weight: normal">Background</h2>
 Over the course of the last two decades, it became progressively clear that physical, i.e.
 mechanical forces play a major role in cellular decision making and aid in regulating important
 physiological processes like tissue growth and morphogenesis. To actively generate forces, cells
@@ -1202,9 +1202,9 @@ has yielded many new insights in recent years it is still puzzling how cells int
 from their environment into their decision-making process. Therefore, it is important to study how
 cells generate forces, how the internal molecular machinery regulates them, and how these forces
 transmit information in multicellular systems to understand processes such as development,
-organogenesis, homeostasis or diseases like cancer.
-<h3 id="h2-stylefont-weight-normalpushing-from-withinh2"><h2 style="font-weight: normal">Pushing from within</h2></h3>
-<p>Recent research has demonstrated that cells are able to migrate efficiently through low-adhesion environments.
+organogenesis, homeostasis or diseases like cancer. -->
+<h3 id="h2-stylefont-weight-normalpushing-forces-in-cell-mechanicsh2"><h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2></h3>
+<p>Cells interact mechanically with their environment not only by pulling but also by pushing from within, a fundamental aspect of cell mechanics that remains largely unexplored. While the role of pulling forces in sensing and migration is well established, how pushing forces allow cells to deform soft, three-dimensional environments and move without strong adhesion is still poorly understood. Understanding this pushing mechanism could reshape our view of cell migration in development, immunity, and cancer invasion. In my current research, I combine theoretical physics and quantitative modeling to understand how the cytoskeleton — especially actin and microtubules — and the plasma membrane generate, balance, and coordinate pushing forces. I develop multi-scale models that link local cytoskeletal dynamics and membrane mechanics to the global force balance needed for cells to migrate through complex environments without relying on strong adhesion.
 
 
 
@@ -1227,6 +1227,61 @@ organogenesis, homeostasis or diseases like cancer.
   </div></figure>
 </p>
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
+<!-- - Lists
+- **Bold text**
+- *Italic text*
+- Images
+- 
+
+
+
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+ -->
+<!-- $$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$ -->
+ 
+          </div>
+        </div>
+      
+        <div class="mb-6"> 
+          <h4 class="text-lg font-semibold text-gray-900 dark:text-white"></h4> 
+
+          
+          <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+            <!-- <h2 style="font-weight: normal">Background</h2>
+Over the course of the last two decades, it became progressively clear that physical, i.e.
+mechanical forces play a major role in cellular decision making and aid in regulating important
+physiological processes like tissue growth and morphogenesis. To actively generate forces, cells
+use a highly complex and self-organized contractile structure called the actin cytoskeleton which
+allows them to explore the mechanical and geometric properties of their environment through cell-
+matrix and cell-cell adhesions. These informations are then fed back to the cell, and evaluated by
+means of chemical signals a process which is known as mechanotransduction. Although research
+has yielded many new insights in recent years it is still puzzling how cells integrate information
+from their environment into their decision-making process. Therefore, it is important to study how
+cells generate forces, how the internal molecular machinery regulates them, and how these forces
+transmit information in multicellular systems to understand processes such as development,
+organogenesis, homeostasis or diseases like cancer. -->
+<h3 id="h2-stylefont-weight-normalpushing-forces-in-cell-mechanicsh2"><h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2></h3>
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/uploads/coupling_mechanism.svg" alt="Cell pushing schematic" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Weak Coupling</h4>
+    <video controls style="width: 100%; height: auto;">
+      <source src="/uploads/MovieS1_doublet_weak_coupling.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Strong Coupling</h4>
+    <video controls style="width: 100%; height: auto;">
+      <source src="/uploads/MovieS2_doublet_strong_coupling.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 <!-- - Lists
 - **Bold text**
 - *Italic text*
@@ -1403,6 +1458,173 @@ $$ -->
 <div class="col-12 col-lg-8">
 
   
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Dennis Wörthmüller</span>, <span >
+      Falko Ziebert</span>, <span >
+      Ulrich S. Schwarz</span>
+  </span>
+  (2025).
+  <a href="/publication/worthmuller-2025/">Modelling mechanochemical coupling in optogenetically activated cell layers</a>.
+  <em>bioRxiv</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/worthmuller-2025/worthmuller-2025.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/worthmuller-2025/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1101/2025.06.30.662367" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/2025.06.30.662367v1.full.pdf" target="_blank" rel="noopener">
+    URL</a>
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Dennis Wörthmüller</span>, <span >
+      Gaetano Ferraro</span>, <span >
+      Pierre Sens</span>, <span >
+      Michele Castellana</span>
+  </span>
+  (2025).
+  <a href="/publication/worthmuller_castellana-2025/">IRENE A fluId layeR finitE-elemeNt softwarE</a>.
+  <em>arxiv</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/worthmuller_castellana-2025/worthmuller_castellana-2025.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/worthmuller_castellana-2025/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.48550/arXiv.2506.17827" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2506.17827" target="_blank" rel="noopener">
+    URL</a>
+
+</p>
+
+  
+  
+</div>
 
   
     
@@ -1842,6 +2064,83 @@ $$ -->
 
   
   
+      [poster]
+  
+
+  
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+
+  
+  (2025)
+  
+  
+  <i>"Active Gel on a Wavy Surface -- Stresses and Instabilities"</i>, 
+  
+  
+  
+  Active Matter, the synergy between Maths and Physics,  
+  
+  
+  
+  
+      Institut Henri Poincaré, 
+  
+
+  
+  Paris (France), 
+  
+  
+  <span>
+    Jun 5, 2025
+  </span>
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+</div>
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  
+  
+  <i class="far fa-user-circle pub-icon" aria-hidden="true"></i>
+
+  
+  
       [talk]
   
 
@@ -2243,6 +2542,79 @@ $$ -->
   
   
   
+  <i>"Active Matter: the synergy between Maths and Physics"</i>, 
+  
+  
+  
+  
+  
+  
+      Institut Henri Poincaré, 
+  
+
+  
+  Paris (France), 
+  
+  
+  <span>
+    May 26, 2025 &mdash; Jun 13, 2025
+  </span>
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+</div>
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  
+  
+  
+
+  
+  
+
+  
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+
+  
+  
+  
+  
   <i>"Morphodynamics of Living Systems"</i>, 
   
   
@@ -2474,77 +2846,6 @@ $$ -->
   
   <span>
     Sep 4, 2022 &mdash; Sep 9, 2022
-  </span>
-  
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-</div>
-  
-    
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  
-  
-  
-
-  
-  
-
-  
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  </span>
-
-  
-  
-  
-  
-  <i>"IWR School 2019, A Crash Course in Machine Learning with Applications in Natural- and Life Sciences"</i>, 
-  
-  
-  
-  
-  
-  
-
-  
-  Heidelberg (Germany), 
-  
-  
-  <span>
-    Sep 23, 2019 &mdash; Sep 27, 2019
   </span>
   
   
@@ -2859,7 +3160,7 @@ $$ -->
 
   
   <p class="powered-by copyright-license-text">
-    © 2024 Dennis Wörthmüller. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2025 Dennis Wörthmüller. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
