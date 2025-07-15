@@ -22,7 +22,7 @@ Plain image:
 ![Test](cell_pushing_matrix.svg)
 
 
-{{< video src="media/MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
+{{< video src="MovieS1_doublet_weak_coupling.mp4" controls="yes" >}}
 <!-- {{< video src="MovieS1_doublet_weak_coupling.mp4" controls="yes" >}} -->
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
