@@ -177,24 +177,55 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: 
-      email: dennis.worthmuller@curie.fr
-      address:
-        street: Institut Curie, UMR168 Physics of Cells and Cancer
-        city: Paris
-        region: 
-        postcode: '75005'
-        country: France
-        country_code: FR
+      address: {}  # Empty or minimal if you don’t want the default address on top
       contact_links:
+        - icon: envelope
+          name: 'dennis [dot] worthmuller [at] curie [dot] fr'  # This renders it as text
+          link: 'mailto:dennis.worthmuller@curie.fr'
         - icon: globe
           name: Institut Curie
-          link: 'https://institut-curie.org/unit/umr168/'
-      autolink: true  # Automatically link email and phone or display as text?
+          link: 'https://curie.fr/equipe/sens'
+        - icon: map-marker-alt
+          name: Institut Curie, UMR168 Physics of Cells and Cancer, Paris, 75005
+          link: 'https://www.google.com/maps/place/11+Rue+Pierre+et+Marie+Curie,+75005+Paris/@48.8395354,2.3300745,14.99z/data=!4m6!3m5!1s0x47e671e82bbf19bf:0x4e6aa621b5cb8f7c!8m2!3d48.843833!4d2.3435364!16s%2Fg%2F11ckqmhqv9?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D'
+        - icon: ''  # No icon for the map row
+          name: |
+            <div style="max-width: 600px; margin-top: 1rem; margin-left: -2.5rem;; justify-content: flex-start;">
+              <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.75370331979!2d2.3409614761710347!3d48.84383650173099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671e82bbf19bf%3A0x4e6aa621b5cb8f7c!2s11%20Rue%20Pierre%20et%20Marie%20Curie%2C%2075005%20Paris!5e0!3m2!1sde!2sfr!4v1752681162305!5m2!1sde!2sfr"
+                width="100%"
+                height="300"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
     design:
       columns: '2'
       spacing:
-        # NB: leave bottom spacing after last section, so that menu section higlight works
-        padding: ["20px", "5%", "250px", "2%"] #section spacing top, right, bottom, left
+        padding: ["20px", "5%", "200px", "5%"]
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: 
+  #     email: dennis.worthmuller@curie.fr
+  #     address:
+  #       street: Institut Curie, UMR168 Physics of Cells and Cancer
+  #       city: Paris
+  #       region: 
+  #       postcode: '75005'
+  #       country: France
+  #       country_code: FR
+  #     contact_links:
+  #       - icon: globe
+  #         name: Institut Curie
+  #         link: 'https://institut-curie.org/unit/umr168/'
+  #     autolink: true  # Automatically link email and phone or display as text?
+  #   design:
+  #     columns: '2'
+  #     spacing:
+  #       # NB: leave bottom spacing after last section, so that menu section higlight works
+  #       padding: ["20px", "5%", "250px", "2%"] #section spacing top, right, bottom, left
 ---

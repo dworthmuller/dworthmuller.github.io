@@ -54,7 +54,7 @@ organogenesis, homeostasis or diseases like cancer. --&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;!-- &lt;img src=&#34;cell_pushing_matrix.jpg&#34; alt=&#34;isolated&#34; width=&#34;200&#34;/&gt; --&gt;
-&lt;div style=&#34;margin-bottom: 8rem;&#34;&gt;&lt;/div&gt;
+&lt;div style=&#34;margin-bottom: 6rem;&#34;&gt;&lt;/div&gt;
 &lt;!-- - Lists
 - **Bold text**
 - *Italic text*
@@ -91,7 +91,7 @@ from their environment into their decision-making process. Therefore, it is impo
 cells generate forces, how the internal molecular machinery regulates them, and how these forces
 transmit information in multicellular systems to understand processes such as development,
 organogenesis, homeostasis or diseases like cancer. --&gt;
-&lt;h3 id=&#34;h2-stylefont-weight-normaloptogenetic-control-of-cell-contarctility-and-force-propagationh2&#34;&gt;&lt;h2 style=&#34;font-weight: normal&#34;&gt;Optogenetic Control of Cell Contarctility and Force Propagation&lt;/h2&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;h2-stylefont-weight-normaloptogenetic-control-of-cell-contractility-and-force-propagationh2&#34;&gt;&lt;h2 style=&#34;font-weight: normal&#34;&gt;Optogenetic Control of Cell Contractility and Force Propagation&lt;/h2&gt;&lt;/h3&gt;
 &lt;p&gt;Cells generate and propagate contractile forces to sense, adapt, and maintain mechanical balance with their environment. While the basics of pulling forces are well known, the physical principles that link force generation within the cytoskeleton to force propagation across cells and tissues remain poorly understood. My research combines optogenetics, micropatterning, traction force microscopy, and continuum theory to reveal how actin architecture, cell size, and geometry shape both local force generation and long-range force transmission. By bridging experiments and active gel models, I aim to explain how cells dynamically regulate tension and coordinate mechanical signals at multiple scales.
 
 
@@ -114,6 +114,7 @@ organogenesis, homeostasis or diseases like cancer. --&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;research/project-2/figure_project_2.svg&#34; alt=&#34;screen reader text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;div style=&#34;margin-bottom: 6rem;&#34;&gt;&lt;/div&gt;
 &lt;!-- &lt;div style=&#34;display: flex; gap: 1rem; justify-content: center;&#34;&gt;
   &lt;img src=&#34;research/project-2/coupling_mechanism.svg&#34; alt=&#34;Image 1&#34; style=&#34;width: 230px; height: auto;&#34;&gt;
   &lt;img src=&#34;research/project-2/active_response.svg&#34; alt=&#34;Image 2&#34; style=&#34;width: 330px; height: auto;&#34;&gt;
