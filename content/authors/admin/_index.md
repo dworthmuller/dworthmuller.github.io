@@ -53,7 +53,7 @@ work:
   positions:
     - position: Postdoctoral researcher
       institution: 
-        - Institut Curie (PCC), [UMR168 Physics of Cells and Cancer ](https://institut-curie.org/unit/umr168/)
+        - Institut Curie (PCC), [UMR168 Physics of Cells and Cancer ](https://curie.fr/equipe/sens)
       year: since 2023
     
 
