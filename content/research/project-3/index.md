@@ -17,7 +17,7 @@ cells generate forces, how the internal molecular machinery regulates them, and 
 transmit information in multicellular systems to understand processes such as development,
 organogenesis, homeostasis or diseases like cancer. -->
 
-### <h2 style="font-weight: normal">Optogenetic control of cell contarctility and force propagation</h2>
+### <h2 style="font-weight: normal">Brownian Dynamics Simulations of Protein Self-assembly</h2>
 Many cellular structures, like the centriole, rely on precise protein self-assembly to build complex shapes with defined symmetries. The protein SAS-6 is essential for centriole formation because it forms dimers that self-assemble into nine-fold symmetric rings, establishing the centriole’s architecture. Recent experiments show that surfaces strongly promote this ring assembly by increasing encounter rates and forcing the structure to stay planar. In my work, I use Brownian dynamics simulations and reaction kinetics to study how surface adsorption, interaction energies, and angular constraints shape the efficiency and symmetry of SAS-6 ring formation, highlighting the physical conditions that favor robust and specific assembly.
 <!-- ![screen reader text](research/project-3/sas6.svg) -->
 <div style="width: 100%;">
