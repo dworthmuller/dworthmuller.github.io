@@ -19,7 +19,7 @@ organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Pushing Forces in Cell Mechanics</h2>
 Cells interact mechanically with their environment not only by pulling but also by pushing from within, a fundamental aspect of cell mechanics that remains largely unexplored. While the role of pulling forces in sensing and migration is well established, how pushing forces allow cells to deform soft, three-dimensional environments and move without strong adhesion is still poorly understood. Understanding this pushing mechanism could reshape our view of cell migration in development, immunity, and cancer invasion. In my current research, I combine theoretical physics and quantitative modeling to understand how the cytoskeleton — especially actin and microtubules — and the plasma membrane generate, balance, and coordinate pushing forces. I develop multi-scale models that link local cytoskeletal dynamics and membrane mechanics to the global force balance needed for cells to migrate through complex environments without relying on strong adhesion.
-![screen reader text](research/cell_pushing_matrix.svg)
+![screen reader text](research/project-1/cell_pushing_matrix.svg)
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
 <div style="margin-bottom: 8rem;"></div>
