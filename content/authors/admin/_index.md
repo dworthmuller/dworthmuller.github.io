@@ -19,7 +19,7 @@ role: Postdoctoral researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Institut Curie
-    url: https://institut-curie.org/unit/umr168/
+    url: https://curie.fr/equipe/sens
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include volcano eruptive processes.
