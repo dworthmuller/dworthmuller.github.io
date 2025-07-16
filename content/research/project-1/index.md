@@ -22,7 +22,7 @@ Cells interact mechanically with their environment not only by pulling but also 
 ![screen reader text](research/project-1/figure_project_1.svg)
 <!-- <img src="cell_pushing_matrix.jpg" alt="isolated" width="200"/> -->
 
-<div style="margin-bottom: 8rem;"></div>
+<div style="margin-bottom: 6rem;"></div>
 
 <!-- - Lists
 - **Bold text**
