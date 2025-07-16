@@ -77,9 +77,9 @@ social:
   # - icon: researchgate
   #   icon_pack: ai
   #   link: https://www.researchgate.net/profile/Sebastien-Valade
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/
   #   label: MountsSystem
   #   display:
   #     header: false #>> display logo in header
