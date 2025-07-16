@@ -17,7 +17,7 @@ cells generate forces, how the internal molecular machinery regulates them, and 
 transmit information in multicellular systems to understand processes such as development,
 organogenesis, homeostasis or diseases like cancer. -->
 
-### <h2 style="font-weight: normal">Optogenetic Control of Cell Contarctility and Force Propagation</h2>
+### <h2 style="font-weight: normal">Optogenetic Control of Cell Contractility and Force Propagation</h2>
 Cells generate and propagate contractile forces to sense, adapt, and maintain mechanical balance with their environment. While the basics of pulling forces are well known, the physical principles that link force generation within the cytoskeleton to force propagation across cells and tissues remain poorly understood. My research combines optogenetics, micropatterning, traction force microscopy, and continuum theory to reveal how actin architecture, cell size, and geometry shape both local force generation and long-range force transmission. By bridging experiments and active gel models, I aim to explain how cells dynamically regulate tension and coordinate mechanical signals at multiple scales.
 ![screen reader text](research/project-2/figure_project_2.svg)
 <div style="margin-bottom: 6rem;"></div>
