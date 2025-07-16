@@ -19,12 +19,13 @@ organogenesis, homeostasis or diseases like cancer. -->
 
 ### <h2 style="font-weight: normal">Optogenetic Control of Cell Contarctility and Force Propagation</h2>
 Cells generate and propagate contractile forces to sense, adapt, and maintain mechanical balance with their environment. While the basics of pulling forces are well known, the physical principles that link force generation within the cytoskeleton to force propagation across cells and tissues remain poorly understood. My research combines optogenetics, micropatterning, traction force microscopy, and continuum theory to reveal how actin architecture, cell size, and geometry shape both local force generation and long-range force transmission. By bridging experiments and active gel models, I aim to explain how cells dynamically regulate tension and coordinate mechanical signals at multiple scales.
-<div style="display: flex; gap: 1rem; justify-content: center;">
+![screen reader text](research/project-2/figure_project_2.svg)
+<!-- <div style="display: flex; gap: 1rem; justify-content: center;">
   <img src="research/project-2/coupling_mechanism.svg" alt="Image 1" style="width: 230px; height: auto;">
   <img src="research/project-2/active_response.svg" alt="Image 2" style="width: 330px; height: auto;">
   <img src="research/project-2/tissue.svg" alt="Image 3" style="width: 150px; height: auto;">
 </div>
-<div style="margin-bottom: 8rem;"></div>
+<div style="margin-bottom: 8rem;"></div> -->
 
 
 
