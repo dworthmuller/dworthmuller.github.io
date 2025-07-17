@@ -85,16 +85,16 @@ social:
   #     header: false #>> display logo in header
   # - icon: at
   #   url: 'dennis.worthmuller@curie.fr'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
   # - icon: gitlab
   #   icon_pack: fab
   #   link: https://gitlab.com/svalade
   # Link to a PDF of your resume/CV.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cvpostdoc.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

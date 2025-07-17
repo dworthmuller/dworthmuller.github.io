@@ -17,5 +17,10 @@
 }
 
 #profile .network-icon {
-    margin-top: 30px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-left: 0;
+    list-style: none;
 }

@@ -92,10 +92,11 @@
 
     <div class="article-style">
       {{ $person_page.Content }}
+      <!-- Here you can turn on the other download button for the CV -->
       {{ with $block.content.button }}
-      <a class="btn btn-outline-primary" href="{{.url}}" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; padding: 8px 16px; font-size: 14px; font-weight: 500; text-decoration: none; border: 1px solid #007bff; border-radius: 4px; color: #007bff;">
+      <!-- <a class="btn btn-outline-primary" href="{{.url}}" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; padding: 8px 16px; font-size: 14px; font-weight: 500; text-decoration: none; border: 1px solid #007bff; border-radius: 4px; color: #007bff;">
         <i class="fas fa-download" style="margin-right: 8px;"></i> Download CV
-      </a>
+      </a> -->
       {{ end }}
        
       <!-- <a class="btn btn-outline-primary" href="/uploads/resume.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a> -->
