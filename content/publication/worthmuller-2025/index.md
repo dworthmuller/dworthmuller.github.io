@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-07-03'
+date: '2025-10-07'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-10-22T14:23:54.333698Z'
@@ -23,15 +23,15 @@ publishDate: '2024-10-22T14:23:54.333698Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- manuscript
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRxiv*'
+publication: '*Biophysical Journal*'
 publication_short: ''
 
-doi: 10.1101/2025.06.30.662367
+doi: 10.1016/j.bpj.2025.10.002
 
-abstract: In adherent cells, actomyosin contractility is regulated mainly by the RhoA signaling pathway, which can be controlled by op- togenetics. To model the mechanochemical coupling in such sys- tems, we introduce a finite element framework based on the dis- continuous Galerkin method, which allows us to treat cell dou- blets, chains of cells and monolayers within the same conceptual framework. While the adherent cell layer is modeled as an ac- tively contracting viscoelastic material on an elastic foundation, different models are considered for the Rho-pathway, starting with a simple linear chain that can be solved analytically and later including direct feedback that can be solved only numer- ically. Our model predicts signal propagation as a function of coupling strength and viscoelastic time scales and identifies the conditions for optimal cell responses and wave propagation. In general, it provides a systematic understanding of how biochem- istry and mechanics simultaneously contribute to the communi- cation of adherent cells.
+abstract: In adherent cells, actomyosin contractility is regulated mainly by the RhoA signaling pathway, which can be controlled by optogenetics. To model the mechanochemical coupling in such systems, we introduce a finite element framework based on the discontinuous Galerkin method, which allows us to treat cell doublets, chains of cells, and monolayers within the same conceptual framework. While the adherent cell layer is modeled as an actively contracting viscoelastic solid on an elastic foundation, different models are considered for the Rho pathway, starting with a simple linear chain that can be solved analytically and later including direct feedback that can be solved only numerically. Our model predicts signal propagation as a function of coupling strength and viscoelastic timescales and identifies the conditions for optimal cell responses and wave propagation. In general, it provides a systematic understanding of how biochemistry and mechanics simultaneously contribute to the communication of adherent cells.
 
 
 # Summary. An optional shortened abstract.
@@ -72,6 +72,6 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://www.biorxiv.org/content/10.1101/2025.06.30.662367v1.full.pdf
+  url: https://www.cell.com/biophysj/fulltext/S0006-3495(25)00653-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0006349525006538%3Fshowall%3Dtrue
 ---
 

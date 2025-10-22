@@ -92,7 +92,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: Talks and Posters
       # text: <h2><b><u>All Talks</u>:</b><br><a href="./talk/" _target="_blank">View all talks/posters</a></h2><h2><b><u>Latest Talks</u>:</b></h2>
       filters:
         folders:

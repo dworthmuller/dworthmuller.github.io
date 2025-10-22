@@ -2,7 +2,7 @@
 # NB: this controls the "archive page" (accessed when pressing SEE ALL)
 # https://wowchemy.com/docs/content/archives/
 
-title: Peer-reviewed publications
+title: Publications and Preprints
 cms_exclude: true
 
 # View.

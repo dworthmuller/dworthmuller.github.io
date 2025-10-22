@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Dennis Wörthmüller</title>
+    <title>Talks &amp; Posters in international conferences | Dennis Wörthmüller</title>
     <link>http://localhost:1313/talk/</link>
       <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <description>Talks &amp; Posters in international conferences</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2635411028209611672.png</url>
-      <title>Talks</title>
+      <title>Talks &amp; Posters in international conferences</title>
       <link>http://localhost:1313/talk/</link>
     </image>
+    
+    <item>
+      <title>When Actin Meets Curvature- Modeling Free-Standing Cell Protrusions</title>
+      <link>http://localhost:1313/talk/2025-10_paris_lptms/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2025-10_paris_lptms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Actin Meets Curvature- Modeling Free-Standing Cell Protrusions</title>
+      <link>http://localhost:1313/talk/2025-10_paris_msc/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2025-10_paris_msc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Gel on a Wavy Surface -- Stresses and Instabilities</title>
+      <link>http://localhost:1313/talk/2025-10_leuven/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2025-10_leuven/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Gel on a Wavy Surface -- Stresses and Instabilities</title>

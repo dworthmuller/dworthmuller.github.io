@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication-type/manuscript/</link>
       <atom:link href="http://localhost:1313/publication-type/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2635411028209611672.png</url>
       <title>Manuscript</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Modelling mechanochemical coupling in optogenetically activated cell layers</title>
-      <link>http://localhost:1313/publication/worthmuller-2025/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/worthmuller-2025/</guid>
+      <title>Curvature instability of an active gel growing on a wavy membrane</title>
+      <link>http://localhost:1313/publication/mihali_worthmuller-2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mihali_worthmuller-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>napariTFM- An Open-Source Tool for Traction Force Microscopy and Monolayer Stress Microscopy</title>
+      <link>http://localhost:1313/publication/ruppel_worthmuller-2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruppel_worthmuller-2025/</guid>
       <description></description>
     </item>
     
