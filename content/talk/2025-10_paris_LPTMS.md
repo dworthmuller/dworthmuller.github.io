@@ -1,6 +1,5 @@
 ---
-type: invited talk
-highlight: True
+type: talk
 authors: ['']
 title: "When Actin Meets Curvature- Modeling Free-Standing Cell Protrusions"
 event: Biophysics Seminar
