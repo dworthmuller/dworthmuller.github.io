@@ -28,7 +28,7 @@ publication_types:
 - manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*arxiv*'
+publication: '*arXiv*'
 publication_short: ''
 
 doi: 10.48550/arXiv.2601.02164
