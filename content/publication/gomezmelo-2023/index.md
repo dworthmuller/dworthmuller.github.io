@@ -7,8 +7,8 @@ title: Grand canonical Brownian dynamics simulations of adsorption and self-asse
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Santiago Gomez Melo
-- Dennis Wörthmüller
+- "Santiago Gomez Melo*"
+- "Dennis Wörthmüller*"
 - Pierre Gönczy
 - Niccolo Banterle
 - Ulrich S. Schwarz

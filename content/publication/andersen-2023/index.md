@@ -7,8 +7,8 @@ title: Cell size and actin architecture determine force generation in optogeneti
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- T. Andersen
-- D. Wörthmüller
+- "T. Andersen*"
+- "D. Wörthmüller*"
 - D. Probst
 - I. Wang
 - P. Moreau
