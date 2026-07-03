@@ -1,5 +1,5 @@
 ---
-title: Mechanical stress induced by the polymerisation of an active gel near a surface
+title: Mechanical stress induced by the polymerisation of an active gel near a surface.
 
 # Authors
 # A YAML list of author names
