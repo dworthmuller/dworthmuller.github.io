@@ -31,7 +31,7 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2506.17827
 
-abstract: We present a finite-element software library, IRENE, which allows to solve numerically the dynamics of a viscous fluid layer embedded in three-dimensional space. Unlike finite-element libraries present in the literature, IRENE can handle two-dimensional open surfaces with a wide range of boundary conditions, and inter-surface obstacles with any shapes, and is built upon the user-friendly and versatile finite element computational software (FEniCS). Also, the library can describe a wide range of physical regimes--both low-Reynolds-number and inertia-dominated ones--capturing the complex coupling between in-plane flows, out-of-plane deformations, surface tension, and elastic response. We validate IRENE against known analytical and numerical results, and demonstrate its capabilities through physical examples. Overall, IRENE provides a versatile and efficient tool for understanding fluid-layer dynamics on multiple physical scales, from flows of lipidic membranes on a microscopic level, to fluid flows on a macroscopic scale, to atmospheric air flows on a planetary level.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ''
