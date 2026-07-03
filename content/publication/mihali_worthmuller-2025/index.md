@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-10-20'
+date: '2026-06-25'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-10-22T14:23:54.333698Z'
@@ -23,15 +23,15 @@ publishDate: '2024-10-22T14:23:54.333698Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- manuscript
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*arxiv*'
+publication: '*Physical Review Letters*'
 publication_short: ''
 
-doi: 10.48550/arXiv.2510.17701
+doi: 10.1103/xzkp-f581
 
-abstract: Cell shape changes are largely controlled by the actin cytoskeleton, a dynamic filament network beneath the plasma membrane. Several cell types can form extended free-standing protrusions not supported by an extracellular substrate or matrix, and regulated by proteins that modulate cytoskeletal dynamics in a way sensitive to the curvature of the cell membrane. We develop a theoretical model for the mechanics of a free-standing viscous actin network growing on a corrugated membrane. The model couples the dynamics of the viscous active gel with membrane deformation and the recruitment of curvature-sensitive actin nucleators. We show that an actin layer polymerising uniformly on the membrane always exerts a stabilising effect that reduces membrane deformation. However, curvature-sensitive actin nucleator proteins can render the membrane linearly unstable, depending on the interplay between membrane and actin dynamics, giving rise to spontaneous membrane deformation which could initiate extended free-standing cellular protrusion.
+abstract: Cell shape changes are largely controlled by the actin cytoskeleton, a dynamic filament network beneath the plasma membrane. Several cell types can form extended freestanding protrusions not supported by an extracellular substrate or matrix, and regulated by proteins sensitive to the cell membrane curvature that modulate cytoskeletal dynamics. To gain insight into this process, we develop a theoretical model for the mechanics of a freestanding viscous actin network growing on a corrugated membrane. The model couples the dynamics of the viscous active gel with membrane deformation and the recruitment of curvature-sensitive actin nucleators. We show that an actin layer polymerising uniformly on the membrane always exerts a stabilizing effect that reduces membrane deformation. However, curvature-sensitive actin nucleator proteins can render the membrane linearly unstable, depending on the interplay between membrane and actin dynamics, giving rise to spontaneous membrane deformation which could initiate extended freestanding cellular protrusion.
 
 
 # Summary. An optional shortened abstract.
@@ -72,6 +72,6 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2510.17701
+  url: https://journals.aps.org/prl/abstract/10.1103/xzkp-f581
 ---
 
